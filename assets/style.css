@@ -1,7 +1,7 @@
 /* Profile picture styling */
 .profile-pic {
-  width: 120px;        /* change to whatever size you like */
-  height: 120px;
+  width: 150px;        /* change to whatever size you like */
+  height: 150px;
   border-radius: 50%;  /* makes it circular */
   object-fit: cover;   /* crops if not perfectly square */
   display: block;
