@@ -4,7 +4,7 @@ description: undergraduate researcher in astrophysics & computational and data s
 email: apoorey2@illinois.edu
 
 # Use Phantom theme via GitHub Remote Theme
-remote_theme: jamigibbs/phantom
+remote_theme: mmistakes/so-simple-theme
 
 # Optional menu (change titles or add more pages)
 menu:
