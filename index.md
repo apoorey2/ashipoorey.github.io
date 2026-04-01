@@ -2,4 +2,4 @@
 layout: home
 ---
 
-![Profile Picture](/assets/DSC05604.jpeg)
+![Profile Picture](assets/DSC05604.jpeg)
