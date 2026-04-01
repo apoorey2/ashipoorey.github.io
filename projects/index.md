@@ -1,11 +1,9 @@
 ---
-title: "Projects"
+layout: page
+title: Projects
 ---
 
-# My Projects
+# Projects
 
-## Project 1
-Description here.
-
-## Project 2
-Description here.
+- Project 1
+- Project 2
