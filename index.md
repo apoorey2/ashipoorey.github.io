@@ -2,4 +2,4 @@
 layout: home
 ---
 
-![Profile Picture](assets/DSC05604.jpeg)
+<img src="assets/DSC05604.jpeg" alt="Profile Picture" class="profile-pic">
