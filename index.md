@@ -2,14 +2,8 @@
 layout: home
 ---
 
-![Profile Picture](/assets/images/profile.jpg)
+![Profile Picture](/assets/DSC05604.jpeg)
 
 # Ashi Poorey
-Undergraduate in Astrophysics, Data Science & Computational Science
-Email: [apoorey2@illinois.edu](mailto:apoorey2@illinois.edu)
-
-
-
-## Quick Links
-- [Research](/research)
-- [Projects](/projects)
+Undergraduate researcher in Astrophysics, Data Science & Computational Science
+University of Illinois Urbana-Champaign
