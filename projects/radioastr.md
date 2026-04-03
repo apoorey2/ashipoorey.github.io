@@ -56,6 +56,3 @@ This project focuses on the high-mass star-forming region S255IR, specifically t
 - CASA, CARTA, and Python scripting for data analysis
 
 ---
-
-## Impact & Significance
-This project demonstrates hands-on expertise in high-resolution radio interferometry and molecular line analysis. By reproducing and extending published results, it showcases the ability to extract physical properties—like protostellar mass and disk kinematics—from complex ALMA datasets, bridging computational techniques with astrophysical research.
