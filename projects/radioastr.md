@@ -34,7 +34,7 @@ This project focuses on the high-mass star-forming region S255IR, specifically t
 - Self-calibration improved the signal-to-noise ratio (SNR) by ~1.6× overall and more than doubled near the bright core, while RMS noise dropped from 0.058 to 0.050 mJy/beam.  
 - Enhanced dynamic range and sharper structures allowed clearer resolution of the continuum core and jet knots.
  
-![Continuum Map](assets/radastr.webp)
+![Continuum Map](/assets/radastr.webp)
 
 ### 2. C³⁴S Molecular Line Analysis
 - Created integrated intensity maps showing clumpy molecular structures consistent with the literature, indicating small-scale inhomogeneities in the disk.  
