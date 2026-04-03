@@ -5,9 +5,9 @@ layout: home
 <img src="assets/DSC05604.jpeg" alt="Profile Picture" class="profile-pic">
 
 ## Research
-- [Photometric Variability of Warm Hypergiants in M31 & M33](/research)
-- [RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3](/research)
+- [Photometric Variability of Warm Hypergiants in M31 & M33](research)
+- [RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3](research)
 
 ## Projects
-- [Project 1](/projects)
-- [Project 2](/projects)
+- [Radio Astronomy Capstone Project](projects/radioastr)
+- [Project 2](projects)
