@@ -3,7 +3,7 @@ layout: page
 title: Radio Astronomy Capstone Project
 ---
 
-# Radio Astronomy Capstone Project: ALMA Observations of S255IR NIRS3
+# ALMA Observations of S255IR NIRS3
 
 ## Project Overview
 This project focuses on the high-mass star-forming region S255IR, specifically the protostar NIRS3, one of the best-studied massive protostars that has undergone an accretion outburst. Using high-resolution ALMA data (15 milliarcseconds, ~25 AU), the project reconstructs the continuum emission and analyzes the C³⁴S molecular line, providing insights into disk kinematics and jet structures.
@@ -34,7 +34,7 @@ This project focuses on the high-mass star-forming region S255IR, specifically t
 - Self-calibration improved the signal-to-noise ratio (SNR) by ~1.6× overall and more than doubled near the bright core, while RMS noise dropped from 0.058 to 0.050 mJy/beam.  
 - Enhanced dynamic range and sharper structures allowed clearer resolution of the continuum core and jet knots.
  
-![Continuum Map](assets/radastr.webp)
+![Continuum Map]({{ 'assets/radastr.webp' | relative_url }})
 
 ### 2. C³⁴S Molecular Line Analysis
 - Created integrated intensity maps showing clumpy molecular structures consistent with the literature, indicating small-scale inhomogeneities in the disk.  
