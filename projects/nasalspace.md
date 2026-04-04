@@ -13,7 +13,7 @@ I served as the Project Manager for a 12-member interdisciplinary team and integ
 ## Final Preliminary Design Review (PDR)
 
 {% raw %}
-<iframe src="assets/nasa_lspace_pdr.pdf" width="100%" height="600px" frameborder="0" style="border:1px solid #ddd; border-radius:5px;"></iframe>
+<iframe src="../assets/nasa_lspace_pdr.pdf" width="100%" height="600px" frameborder="0" style="border:1px solid #ddd; border-radius:5px;"></iframe>
 {% endraw %}
 
 ## Certificate
