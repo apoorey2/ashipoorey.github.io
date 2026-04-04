@@ -1,25 +1,32 @@
 title: Ashi Poorey
 description: Undergraduate Researcher in Astrophysics, Data Science & Computational Science
-author: Ashi Poorey
-email: apoorey2@illinois.edu
+author:
+  name: Ashi Poorey
+  email: apoorey2@illinois.edu
+  links:
+    - title: GitHub
+      url: https://github.com/apoorey2
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ashipoorey/
+      icon: fab fa-linkedin
+    - title: CV
+      url: /assets/Ashi_Poorey_CV.pdf
+      icon: far fa-file-pdf
 
-# Use remote theme so-simple
 remote_theme: mmistakes/so-simple-theme
 
-# Menu bar (these will show at the top)
-menu:
+navigation_links:
   - title: Home
     url: /
   - title: Research
-    url: /research
+    url: /research/
   - title: Projects
-    url: /projects
+    url: /projects/
 
-# Social links (will appear in footer)
-social_links:
-  - icon: github
-    url: https://github.com/apoorey2
-  - icon: linkedin
-    url: https://www.linkedin.com/in/ashipoorey/
-  - icon: file-text
-    url: /assets/Ashi_Poorey_CV.pdf
+skin: "/assets/css/skins/custom.css"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
