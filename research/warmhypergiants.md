@@ -5,7 +5,7 @@ title: Warm Hypergiants Photometric Variability
 
 Description: This project investigates whether WHG exhibit long-term periodicity in their brightness variations with amplitudes large enough to potentially drive episodes of mass loss and evolutionary change. 
 
-GitHub Repository: [apoorey2/ruwe_gaia_pipeline](https://github.com/apoorey2/warmhypergiantsphotometry)
+GitHub Repository: [apoorey2/warmhypergiantsphotometry](https://github.com/apoorey2/warmhypergiantsphotometry)
 
 {% raw %}
 <iframe src="https://apoorey2.github.io/warmhypergiantsphotometry/" 
