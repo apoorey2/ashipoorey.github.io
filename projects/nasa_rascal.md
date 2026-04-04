@@ -7,12 +7,12 @@ Challenge: Develop new, innovative concepts to improve our ability to operate on
 
 NASA Article: [https://www.nasa.gov/press-release/rasc-al-winners](https://www.nasa.gov/general/nasa-selects-14-finalist-teams-for-the-2025-rasc-al-competition/)
 
-## Proposal PDF
+## UIUC RASC-AL 2025 Team
+
+![RASC-AL Image](../assets/walloffaces.png)
+
+## Proposal 
 
 {% raw %}
 <iframe src="../assets/UIUC_MATER_RASC_AL_25_Proposal.pdf" width="100%" height="600px" frameborder="0" style="border:1px solid #ddd; border-radius:5px;"></iframe>
 {% endraw %}
-
-## Project Image
-
-![RASC-AL Image](../assets/walloffaces.png)
