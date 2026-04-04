@@ -5,6 +5,12 @@ title: RUWE Gaia Pipeline
 
 Analyzing Gaia DR3 data to infer planetary companions using RUWE.
 
+Poster Presentations:
+- APS CU*IP 2026
+- [UIUC URS 2026](https://undergradresearch.illinois.edu/assets/docs/URW2026_Final_Program.pdf)
+
+![GAIA Project Poster](assets/radastr.webp)
+
 GitHub Repository: [apoorey2/gaiaruwepipeline](https://github.com/apoorey2/gaiaruwepipeline)
 
 {% raw %}
