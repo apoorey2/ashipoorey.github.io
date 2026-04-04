@@ -3,19 +3,19 @@ description: Undergraduate Researcher in Astrophysics, Data Science & Computatio
 author: Ashi Poorey
 email: apoorey2@illinois.edu
 
-# Use Phantom theme
+# Use remote theme so-simple
 remote_theme: mmistakes/so-simple-theme
 
-# Menu bar
+# Menu bar (these will show at the top)
 menu:
   - title: Home
     url: /
   - title: Research
-    url: /research/
+    url: /research
   - title: Projects
-    url: /projects/
+    url: /projects
 
-# Social links
+# Social links (will appear in footer)
 social_links:
   - icon: github
     url: https://github.com/apoorey2
