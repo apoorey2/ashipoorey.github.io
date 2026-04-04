@@ -23,6 +23,9 @@ layout: page
 - [Photometric Variability of Warm Hypergiants in M31 & M33](research/warmhypergiants)
 - [RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3](research/gaia)
 
+### INDUSTRY EXPERIENCE
+- [QuantCAD – Quantum Physics Intern](industry/quantcad)
+
 ### PROJECTS
 
 - [Radio Astronomy Capstone Project](projects/radioastr)
