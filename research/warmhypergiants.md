@@ -3,7 +3,7 @@ layout: page
 title: Warm Hypergiants Photometric Variability
 ---
 
-Description: This project investigates whether WHG exhibit long-term periodicity in their brightness variations with amplitudes large enough to potentially drive episodes of mass loss and evolutionary change. 
+Investigating whether WHG exhibit long-term periodicity in their brightness variations with amplitudes large enough to potentially drive episodes of mass loss and evolutionary change. 
 
 GitHub Repository: [apoorey2/warmhypergiantsphotometry](https://github.com/apoorey2/warmhypergiantsphotometry)
 
