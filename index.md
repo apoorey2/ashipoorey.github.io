@@ -28,7 +28,7 @@ layout: page
 - [Radio Astronomy Capstone Project](projects/radioastr)
 - [NASA RASC-AL Proposal](projects/nasa_rascal)
 - [Data Science Club Data Dive](projects/datadive)
-- [NASA L'Space MCA Final PDR](assets/nasa_lspace_pdr.pdf)
+- [NASA L'Space MCA Final PDR](projects/nasalspace)
 - [STAT 107 Final Project](projects/stat107)
 
 ### PUBLICATIONS
