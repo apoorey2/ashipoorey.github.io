@@ -190,3 +190,30 @@ iframe {
   border-radius: var(--radius);
   border: 1px solid var(--color-border) !important;
 }
+
+/* ---- Social Links ---- */
+.social-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin: 0.5rem 0 2.5rem;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--color-muted);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transition: color 0.2s;
+}
+
+.social-links a:hover {
+  color: var(--color-accent);
+  text-decoration: none;
+}
