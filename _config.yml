@@ -11,9 +11,9 @@ menu:
   - title: Home
     url: /
   - title: Research
-    url: /research
+    url: /research/
   - title: Projects
-    url: projects
+    url: /projects/
 
 # Social links
 social_links:
@@ -22,4 +22,4 @@ social_links:
   - icon: linkedin
     url: https://www.linkedin.com/in/ashipoorey/
   - icon: file-text
-    url: assets/Ashi_Poorey_CV.pdf
+    url: /assets/Ashi_Poorey_CV.pdf
