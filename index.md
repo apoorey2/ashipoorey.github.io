@@ -1,12 +1,9 @@
 ---
-layout: home
+layout: page
 ---
 
-<div class="home-hero">
-  <img src="/assets/DSC05604.jpeg" alt="Ashi Poorey" class="profile-pic">
-</div>
-
-<section class="home-section">
+<link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">
+<img src="assets/DSC05604.jpeg" alt="Profile Picture" class="profile-pic">
 
 ## Research
 
@@ -16,5 +13,3 @@ layout: home
 ## Projects
 
 - [Radio Astronomy Capstone Project](projects/radioastr)
-
-</section>
