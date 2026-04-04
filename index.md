@@ -18,11 +18,23 @@ layout: page
   </a>
 </div>
 
-## Research
+### RESEARCH
 
 - [Photometric Variability of Warm Hypergiants in M31 & M33](research/warmhypergiants)
 - [RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3](research/gaia)
 
-## Projects
+### PROJECTS
 
 - [Radio Astronomy Capstone Project](projects/radioastr)
+- [NASA RASC-AL Proposal](projects/nasarascal)
+- [Data Science Club Data Dive](projects/datadive)
+- [NASA L'Space MCA Final PDR](assets/nasa_lspace_pdr.pdf)
+- [STAT 107 Final Project](projects/stat107)
+
+### PUBLICATIONS
+
+- [Picture an Astronomer: Best Practices for Retaining Talent in Astrophysics](https://arxiv.org/abs/2512.24465)
+
+### FEATURES
+
+- [LAS Insider Blog Post: Finding my path in unexpected places](https://las.illinois.edu/blog/2025-11-18/finding-my-path-unexpected-places)
