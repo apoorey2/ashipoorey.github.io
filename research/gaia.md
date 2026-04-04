@@ -5,7 +5,7 @@ title: RUWE Gaia Pipeline
 
 Description: This project analyzes Gaia DR3 data to infer planetary companions using RUWE.
 
-GitHub Repository: [apoorey2/ruwe_gaia_pipeline](https://github.com/apoorey2/gaiaruwepipeline)
+GitHub Repository: [apoorey2/gaiaruwepipeline](https://github.com/apoorey2/gaiaruwepipeline)
 
 {% raw %}
 <iframe src="https://apoorey2.github.io/gaiaruwepipeline/" 
