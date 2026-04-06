@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}
+  </title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
+
+  {% feed_meta %}
+  {% seo %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/skins/custom.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Star canvas — appears on every page -->
+  <canvas id="star-canvas" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none;"></canvas>
+
+  <!-- Nebula glow layers -->
+  <div style="position:fixed;inset:0;z-index:0;pointer-events:none;">
+    <div style="position:absolute;width:500px;height:380px;border-radius:50%;background:rgba(42,74,138,0.15);filter:blur(80px);top:-80px;left:-100px;"></div>
+    <div style="position:absolute;width:350px;height:280px;border-radius:50%;background:rgba(90,42,122,0.12);filter:blur(80px);top:20%;right:-80px;"></div>
+    <div style="position:absolute;width:300px;height:220px;border-radius:50%;background:rgba(26,90,74,0.10);filter:blur(70px);bottom:5%;left:35%;"></div>
+  </div>
+
+  <!-- Everything from the So Simple theme sits above the stars -->
+  <div style="position:relative;z-index:1;">
+    {% include masthead.html %}
+
+    <main id="main" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </div>
+
+  <script>
+  (function(){
+    var c = document.getElementById('star-canvas');
+    var ctx = c.getContext('2d');
+    function draw() {
+      c.width = window.innerWidth;
+      c.height = window.innerHeight;
+      ctx.clearRect(0,0,c.width,c.height);
+      var n = Math.floor(c.width * c.height / 2500);
+      for (var i = 0; i < n; i++) {
+        var x = Math.random()*c.width;
+        var y = Math.random()*c.height;
+        var r = Math.random()*1.1;
+        var a = 0.3 + Math.random()*0.7;
+        ctx.beginPath();
+        ctx.arc(x,y,r,0,Math.PI*2);
+        ctx.fillStyle = Math.random()>0.85
+          ? 'hsla(220,60%,92%,'+a+')'
+          : 'hsla(0,0%,100%,'+a+')';
+        ctx.fill();
+      }
+    }
+    draw();
+    window.addEventListener('resize', draw);
+
+    // Occasional shooting star
+    function shootingStar() {
+      var el = document.createElement('div');
+      var startX = Math.random() * window.innerWidth * 0.7;
+      var startY = Math.random() * window.innerHeight * 0.4;
+      var len = 60 + Math.random() * 80;
+      var angle = 20 + Math.random() * 15;
+      el.style.cssText = 'position:fixed;left:'+startX+'px;top:'+startY+'px;width:'+len+'px;height:1px;background:linear-gradient(90deg,rgba(255,255,255,0.85),transparent);transform:rotate('+angle+'deg);transform-origin:left center;opacity:0;z-index:0;pointer-events:none;transition:opacity 0.15s,transform 0.55s linear;';
+      document.body.appendChild(el);
+      setTimeout(function(){ el.style.opacity='0.8'; el.style.transform='rotate('+angle+'deg) translateX(60px)'; }, 30);
+      setTimeout(function(){ el.style.opacity='0'; }, 500);
+      setTimeout(function(){ el.remove(); }, 800);
+      setTimeout(shootingStar, 5000 + Math.random()*7000);
+    }
+    setTimeout(shootingStar, 3000);
+  })();
+  </script>
+</body>
+</html>
