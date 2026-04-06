@@ -30,3 +30,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+
+after_footer_scripts:
+  - /assets/stars.js
