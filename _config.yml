@@ -11,7 +11,7 @@ author:
       url: https://www.linkedin.com/in/ashipoorey/
       icon: fab fa-linkedin
     - title: CV
-      url: /assets/Ashi_Poorey_CV.pdf
+      url: assets/AshiPoorey_CV.pdf
       icon: far fa-file-pdf
 
 remote_theme: mmistakes/so-simple-theme
