@@ -9,6 +9,8 @@ Poster Presentations:
 - APS CU*IP 2026
 - [UIUC URS 2026](https://undergradresearch.illinois.edu/assets/docs/URW2026_Final_Program.pdf)
 
+![GAIA Project Poster](../assets/'gaia_poster.png')
+
 GitHub Repository: [apoorey2/gaiaruwepipeline](https://github.com/apoorey2/gaiaruwepipeline)
 
 {% raw %}
