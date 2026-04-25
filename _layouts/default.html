@@ -7,19 +7,21 @@
     {% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}
   </title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
-
   {% feed_meta %}
   {% seo %}
-
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/skins/custom.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
 </head>
-
 <body>
-  })();
-  </script>
+  <div style="position:relative;z-index:1;">
+    {% include masthead.html %}
+    <main id="main" class="main-content" role="main">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
 </body>
 </html>
