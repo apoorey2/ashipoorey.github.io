@@ -1,21 +1,15 @@
-/* =============================================
-   ASHI POOREY — Custom Skin for So Simple Theme
-   ============================================= */
-
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap');
 
-/* ---- Color Tokens ---- */
-/* ---- Color Tokens ---- */
 :root {
-  --color-bg:        #080d1a;
-  --color-surface:   #0e1525;
-  --color-text:      #e8e2d5;
-  --color-muted:     #8a9ab8;
-  --color-accent:    #7aacdf;
-  --color-accent-lt: rgba(100,160,220,0.2);
-  --color-border:    rgba(100,140,200,0.15);
-  --color-link:      #7aacdf;
-  --color-link-hov:  #a8c8f0;
+  --color-bg:        #ffffff;
+  --color-surface:   #f5f5f5;
+  --color-text:      #1a1a1a;
+  --color-muted:     #555555;
+  --color-accent:    #1b3a6b;
+  --color-accent-lt: rgba(27,58,107,0.15);
+  --color-border:    #e0e0e0;
+  --color-link:      #1b3a6b;
+  --color-link-hov:  #0f2244;
   --radius:          4px;
 }
 
@@ -34,7 +28,7 @@ body {
   font-size: 1.6rem;
   font-weight: 600;
   letter-spacing: 0.02em;
-  color: var(--color-text) !important;
+  color: #1b3a6b !important;
   text-decoration: none !important;
 }
 
@@ -65,12 +59,12 @@ body {
   color: var(--color-accent) !important;
 }
 
-/* ---- Headings ---- */
+/* ---- Headings — navy blue ---- */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 600;
   line-height: 1.2;
-  color: var(--color-text);
+  color: #1b3a6b;
   margin-top: 2em;
   margin-bottom: 0.5em;
 }
@@ -78,6 +72,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 { font-size: 2.6rem; font-weight: 300; letter-spacing: -0.01em; }
 h2 { font-size: 1.9rem; font-weight: 400; }
 h3 { font-size: 1.4rem; font-weight: 600; }
+
+/* ---- Body text — black ---- */
+p, li, td, th {
+  color: #1a1a1a;
+}
 
 /* ---- Links ---- */
 a {
@@ -100,36 +99,8 @@ a:hover {
   border-radius: 50%;
   object-fit: cover;
   margin: 1.5rem auto 2rem;
-  border: 3px solid var(--color-border);
-  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-}
-
-/* ---- Home sections ---- */
-.home-section {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-.home-section ul {
-  padding-left: 0;
-  list-style: none;
-}
-
-.home-section ul li {
-  padding: 0.55rem 0;
-  border-bottom: 1px solid var(--color-border);
-  font-size: 1rem;
-}
-
-.home-section ul li:last-child {
-  border-bottom: none;
-}
-
-.home-section ul li a {
-  font-family: 'DM Sans', sans-serif;
-  font-weight: 400;
-  font-size: 0.97rem;
+  border: 2px solid var(--color-border);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
 }
 
 /* ---- Page content ---- */
@@ -162,13 +133,6 @@ code, pre {
   color: var(--color-muted);
 }
 
-/* ---- Social icons ---- */
-.author__urls a {
-  font-family: 'DM Sans', sans-serif;
-  font-size: 0.88rem;
-  color: var(--color-text);
-}
-
 /* ---- Horizontal rules ---- */
 hr {
   border: none;
@@ -181,6 +145,7 @@ hr {
   font-family: 'Cormorant Garamond', serif;
   font-size: 2.4rem;
   font-weight: 300;
+  color: #1b3a6b;
   letter-spacing: -0.01em;
   margin-bottom: 0.2em;
 }
@@ -198,6 +163,7 @@ iframe {
   justify-content: center;
   gap: 1.2rem;
   margin: 0.5rem 0 2.5rem;
+  flex-wrap: wrap;
 }
 
 .social-links a {
@@ -216,24 +182,4 @@ iframe {
 .social-links a:hover {
   color: var(--color-accent);
   text-decoration: none;
-}
-
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -2;
-  background: #080d1a;
-}
-
-body::after {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  background:
-    radial-gradient(ellipse 60% 40% at 10% 10%, rgba(42,74,138,0.18) 0%, transparent 70%),
-    radial-gradient(ellipse 45% 35% at 90% 30%, rgba(90,42,122,0.14) 0%, transparent 70%),
-    radial-gradient(ellipse 40% 30% at 55% 85%, rgba(26,90,74,0.12) 0%, transparent 70%);
-  pointer-events: none;
 }
