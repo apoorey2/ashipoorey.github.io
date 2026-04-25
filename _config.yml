@@ -25,12 +25,7 @@ navigation_links:
     url: /projects/
 
 skin: "/assets/css/skins/custom.css"
-
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
-
-after_footer_scripts:
-  - /assets/stars.js
