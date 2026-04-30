@@ -45,3 +45,4 @@ layout: page
 ### FEATURES
 
 - [LAS Insider Blog Post: Finding my path in unexpected places](https://las.illinois.edu/blog/2025-11-18/finding-my-path-unexpected-places)
+- [LAS Insider Blog Post: Why I love my major Astrophysics](https://las.illinois.edu/blog/2026-04-28/why-i-love-my-major-astrophysics)
