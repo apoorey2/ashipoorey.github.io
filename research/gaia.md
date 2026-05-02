@@ -7,7 +7,7 @@ Analyzing Gaia DR3 data to infer planetary companions using RUWE.
 
 Poster Presentations:
 - APS CU*IP 2026
-- [UIUC URS 2026](https://undergradresearch.illinois.edu/assets/docs/URW2026_Final_Program.pdf)
+- [UIUC URS 2026]([https://undergradresearch.illinois.edu/assets/docs/URW2026_Final_Program.pdf](https://undergradresearch.illinois.edu/wp-content/uploads/2026/04/Undergrad-Research-Week_2026_Digital-Booklet.pdf))
 
 ![GAIA Project Poster](../assets/gaiaposter.png)
 
