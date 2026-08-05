@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Using Machine Learning to Discover Fvolving/Fading Black Holes
+title: Using Machine Learning to Discover Fading AGN
 ---
-
-# Using Machine Learning to Discover Fading Black Holes
 
 **Space Telescope Science Institute (STScI)**  
 **Space Astronomy Summer Program (SASP) • Summer 2026**
@@ -90,7 +88,7 @@ The model successfully distinguished broad Mg II galaxies from normal SDSS galax
 
 ## Example Spectral Cutout
 
-![Mg II Spectral Cutout]({{ '/assets/images/mgii_cutout.png' | relative_url }})
+![Mg II Spectral Cutout](../assets/mgii_cutout.png)
 
 Example rest-frame SDSS spectrum showing the Mg II emission region used for classification.
 
@@ -98,7 +96,7 @@ Example rest-frame SDSS spectrum showing the Mg II emission region used for clas
 
 ## Model Performance
 
-![Confusion Matrix]({{ '/assets/images/confusion_matrix.png' | relative_url }})
+![Confusion Matrix](../assets/confusion_matrix.png)
 
 Confusion matrix demonstrating the CNN's classification performance on the testing dataset.
 
@@ -122,3 +120,19 @@ Confusion matrix demonstrating the CNN's classification performance on the testi
 ## Research Impact
 
 This project demonstrates how modern deep learning techniques can accelerate the discovery of rare astrophysical objects in massive spectroscopic surveys. The developed workflow provides an efficient framework for identifying candidate changing-look AGN, enabling future studies of supermassive black hole evolution and time-domain astrophysics.
+
+---
+
+# Presentation
+
+This work was presented at the SASP Symposium 2026.
+
+
+[STScI SASP Presentation (PDF)](../assets/presentation_sasp.pdf)
+
+<iframe
+    src="../assets/presentation_sasp.pdf"
+    width="100%"
+    height="900px"
+    style="border:1px solid #ddd; border-radius:8px;">
+</iframe>
