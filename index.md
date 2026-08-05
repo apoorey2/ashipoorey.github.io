@@ -26,7 +26,7 @@ layout: page
 
 ### RESEARCH
 
-- [Using Machine Learning to Discover Fading Black Holes/AGN @ STScI](stsci-ml)
+- [Using Machine Learning to Discover Fading Black Holes/AGN @ STScI](research/stsci-ml)
 - [Photometric Variability of Warm Hypergiants in M31 & M33](research/warmhypergiants)
 - [RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3](research/gaia)
 
