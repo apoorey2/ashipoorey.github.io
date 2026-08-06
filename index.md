@@ -24,7 +24,7 @@ layout: page
   </a>
 </div>
 
-### [ABOUT ME](about/index.md)
+### [ABOUT ME](about/aboutme.md)
 
 ### RESEARCH
 
