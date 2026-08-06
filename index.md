@@ -24,6 +24,8 @@ layout: page
   </a>
 </div>
 
+### [ABOUT ME](/about/)
+
 ### RESEARCH
 
 - [Using Machine Learning to Discover Fading Black Holes/AGN @ STScI](research/stsci-ml)
