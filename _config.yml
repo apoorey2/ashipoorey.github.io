@@ -19,6 +19,8 @@ remote_theme: mmistakes/so-simple-theme
 navigation_links:
   - title: Home
     url: /
+  - title: About Me
+    url: /about/
   - title: Research
     url: /research/
   - title: Projects
