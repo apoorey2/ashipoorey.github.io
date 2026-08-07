@@ -166,8 +166,8 @@ Places I have visited:
   <img src="../travel2.JPG">
   <img src="../travel3.JPG">
   <img src="../travel4.JPG">
-  <img src="../travel5.jpg">
-  <img src="../travel6.jpg">
+  <img src="../travel5.JPG">
+  <img src="../travel6.JPG">
   <img src="../travel7.JPG">
   <img src="../travel8.PNG">
   <img src="../travel9.JPG">
