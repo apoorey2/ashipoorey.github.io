@@ -93,7 +93,21 @@ These experiences taught me leadership, teamwork, and how much fun performing wi
 
 ## Travel
 
-One of my biggest goals is to explore as much of the world as I can. My current bucketlist destinations are: Norway, Netherlands, Alaska, 
+One of my biggest goals is to explore as much of the world as I can. My current bucketlist destinations are: 
+- Norway
+- Netherlands
+- Alaska
+- Japan
+- Yi Peng Lantern Festival Thailand
+- Paris, Hawaii
+- Maine roadtrip: Acadia National Park, Grafton Notch, Bass Harbor, Portland Headlight
+
+Places I have visited:
+- Mauritius
+- Maldives
+- Thailand: Krabi, Phuket
+- Puerto Rico
+
 
 ## Favorite Places
 
