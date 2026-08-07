@@ -46,7 +46,7 @@ Some of my favorite iced lattes/matcha recipes:
 
 | | |
 |---|---|
-| ![](../assets/coffee1.jpg) | ![](../assets/coffee1.jpg) | ![](../assets/coffee1.jpg)
+| ![](../matcha1.JPG) | ![](../matcha2.JPG) | ![](../coffee1.JPG) | ![](../matcha4.JPG) | ![](../coffee2.HEIC) | ![](../matcha5.JPG) | ![](../coffee3.JPG) | ![](../matcha6.JPG)
 
 ---
 
@@ -87,7 +87,7 @@ At UIUC I have been a member of
 These experiences taught me leadership, teamwork, and how much fun performing with friends can be.
 
 |---|---|
-| ![](../assets/coffee1.jpg) | ![](../assets/coffee1.jpg) |
+| ![](../chammak1.JPG) | ![](../chammak2.JPG) | ![](../chammak3.JPG) | ![](../chammak5.JPEG)
 
 ---
 
@@ -99,6 +99,6 @@ One of my biggest goals is to explore as much of the world as I can. My current 
 
 | | | |
 |---|---|---|
-| ![](../assets/coffee1.jpg) | ![](../assets/coffee1.jpg) | ![](../assets/coffee1.jpg) |
+| ![](../assets/travel10.JPG) | ![](../assets/travel11.JPG) | ![](../assets/travel12.JPG) | ![](../assets/travel13.JPG) | ![](../assets/travel14.JPG) | ![](../assets/travel15.HEIC) | ![](../assets/travel16.HEIC) | ![](../assets/travel17.JPG) | ![](../travel1.jpg) | ![](../travel2.JPG) | ![](../travel3.JPG) | ![](../travel4.JPG) | ![](../travel5.JPG) | ![](../travel6.JPG) | ![](../travel7.JPG) | ![](../travel8.PNG) | ![](../travel9.PNG)
 
 ---
