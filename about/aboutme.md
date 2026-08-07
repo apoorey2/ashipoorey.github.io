@@ -151,7 +151,7 @@ Places I have visited:
 - Puerto Rico
 
 
-## Favorite Places
+### Travel Gallery
 
 <div class="img-grid">
   <img src="../assets/travel10.JPG">
