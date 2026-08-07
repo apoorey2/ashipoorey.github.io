@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
-
 Hi! I'm Ashi 
 When I'm not analyzing astronomical data, you'll probably find me curled up with a good book, searching for a new cafe or a matcha place, or making one myself!
 
@@ -19,8 +17,11 @@ Reading has always been one of my favorite ways to unwind and learn something ne
 
 | | | |
 |---|---|---|
-| ![](../assets/) | ![](../assets/) | ![](../assets/) | ![](../assets/) | ![](../assets/) | ![](../assets/) | ![](../assets/)
+| ![](../book1.jpg) | ![](../book3.jpg) | ![](../book4.jpeg) | ![](../book2.jpg) | ![](../book5.jpg) | ![](../book6.jpeg) | ![](../book7.jpg)
 | *The Seven Husbands of Evelyn Hugo* | *The Invisible Life of Addie LaRue* | *My Dark Vanessa* | *A Good Girl's Guide to Murder trilogy* | *Animal Farm* | *Three Body Problem* | *Before the Coffee Gets Cold* 
+
+#### Honorable Mentions: 
+Harry Potter (my roman empire), Percy Jackson, To All the Boys trilogy
 
 ### Favorite Authors
 
@@ -58,6 +59,7 @@ Some of my favorite iced lattes/matcha recipes:
 - Obsession
 - The Odyssey
 - Oppenheimer
+
 (as you can tell, I LOVE Christoper Nolan)
 
 ### Shows
@@ -66,8 +68,10 @@ Some of my favorite iced lattes/matcha recipes:
 - Stranger Things
 - Gilmore Girls
 - The Office
-- Manifest
-- Squid Game
+- Daisy Jones and the Six
+
+#### Honorable Mentions: 
+Squid Game, Manifest, Modern Family
 
 ---
 
