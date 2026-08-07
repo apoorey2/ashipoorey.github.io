@@ -30,8 +30,8 @@ permalink: /about/
 }
 </style>
 
-Hi! I'm Ashi 
-When I'm not analyzing astronomical data, you'll probably find me curled up with a good book, searching for a new cafe or a matcha place, or making one myself!
+Hi! I'm Ashi <3
+When I'm not analyzing astronomical data, you'll probably find me curled up with a good book, journalling, searching for a new cafe or a matcha place, or making one myself! I also like to learn songs on piano and guitar.
 
 ---
 
@@ -49,6 +49,7 @@ Reading has always been one of my favorite ways to unwind and learn something ne
   <figure><img src="../book5.jpg"><figcaption>Animal Farm</figcaption></figure>
   <figure><img src="../book6.jpeg"><figcaption>Three Body Problem</figcaption></figure>
   <figure><img src="../book7.jpg"><figcaption>Before the Coffee Gets Cold</figcaption></figure>
+  <figure><img src="../assets/book8.jpeg"><figcaption>Circe</figcaption></figure>
 </div>
 
 #### Honorable Mentions: 
@@ -141,7 +142,8 @@ One of my biggest goals is to explore as much of the world as I can. My current 
 - Alaska
 - Japan
 - Yi Peng Lantern Festival Thailand
-- Paris, Hawaii
+- Paris
+- Hawaii
 - Maine roadtrip: Acadia National Park, Grafton Notch, Bass Harbor, Portland Headlight
 
 Places I have visited:
