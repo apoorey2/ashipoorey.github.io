@@ -125,7 +125,7 @@ This project demonstrates how modern deep learning techniques can accelerate the
 
 # Presentation
 
-This work was presented at the [SASP Symposium 2026](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a20e515-8dff-44be-bb97-b4a9013e337a).
+This work was presented at the [SASP Symposium 2026](https://www.stsci.edu/opportunities/space-astronomy-summer-program/archived-student-presentations.html#h4-2023c19a-cf42-4bb4-8a8e-455093a3f577).
 
 
 [STScI SASP Presentation (PDF)](../assets/presentation_sasp.pdf)
